@@ -1,0 +1,3 @@
+Login  |  Nickname  |  Time que torce  |  Campeão favorito  |  Level  |  Elo  |
+
+adm  :  Administrador  -  Não possui  -  Não possui  -  Não possui  -  Não possui

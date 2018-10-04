@@ -1,0 +1,16 @@
+13/06/2018 - 23:42:1 - Executado por: adm - Ação: Entrou no programa.
+14/06/2018 - 00:14:9 - Executado por: adm - Ação: Se desconectou.
+27/06/2018 - 01:18:16 - Executado por: adm - Ação: Entrou no programa.
+27/06/2018 - 01:23:54 - Executado por: adm - Ação: Entrou no programa.
+27/06/2018 - 01:24:0 - Executado por: adm - Ação: Gerou um relatório.
+27/06/2018 - 01:24:9 - Executado por: adm - Ação: Gerou um relatório.
+27/06/2018 - 01:26:9 - Executado por: adm - Ação: Gerou um relatório.
+27/06/2018 - 01:46:29 - Executado por: adm - Ação: Gerou um relatório.
+27/06/2018 - 01:46:38 - Executado por: adm - Ação: Gerou um relatório.
+27/06/2018 - 01:46:44 - Executado por: adm - Ação: Se desconectou.
+26/07/2018 - 19:52:55 - Executado por: adm - Ação: Entrou no programa.
+26/07/2018 - 19:54:43 - Executado por: adm - Ação: Entrou no programa.
+12/08/2018 - 19:5:37 - Executado por: adm - Ação: Entrou no programa.
+15/08/2018 - 22:0:48 - Executado por: adm - Ação: Entrou no programa.
+15/08/2018 - 22:0:54 - Executado por: adm - Ação: Gerou um relatório.
+15/08/2018 - 22:1:8 - Executado por: adm - Ação: Se desconectou.
